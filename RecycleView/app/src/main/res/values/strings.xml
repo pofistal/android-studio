@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lab_RecycleView</string>
+    <string-array name="porodi_cat">
+        <item>Мейн-Кун</item>
+        <item>Шотландская вислоухая</item>
+        <item>Британец</item> <item>Сиамская</item>
+        <item>Абиссинская</item>
+        <item>Русская голубая</item>
+        <item>Ориаентал</item>
+        <item>Сфинкс</item>
+        <item>Сфинкс</item>
+        <item>Сфинкс</item>
+    </string-array>
+    <string-array name="opisanie_cat">
+        <item>Угрюмый</item>
+        <item>Удивлённая</item>
+        <item>Злой</item>
+        <item>Активная</item>
+        <item>Серьёзная</item>
+        <item>Грациозная</item>
+        <item>Смешная</item>
+        <item>Лысая</item>
+        <item>Лысая</item>
+        <item>Лысая</item>
+    </string-array>
+</resources>
