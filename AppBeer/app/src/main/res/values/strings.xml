@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBeer</string>
+    <string name="pushBtn">Выбрать</string>
+    <string name="textPiva">Выберите вид пива и нажмите на кнопку.</string>
+</resources>
